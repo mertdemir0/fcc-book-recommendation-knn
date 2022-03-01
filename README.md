@@ -1,4 +1,4 @@
-## fcc_book_recommendation_knn
+## fcc-book-recommendation-knn
 ### Book Recommendation Engine using KNN
 
 ---
